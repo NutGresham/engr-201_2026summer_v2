@@ -145,6 +145,10 @@ If the upload fails, try again with the 'boot' button. Hold down the microcontro
 
 Perform a quick bench test of your altimeter to ensure it reads correctly. 
 
+*jg add: Check these health indicator each time:
+	- two green LEDs. One on each of the two small boards (9-DOF IMU and pressure sensor)
+	- a flashing red LED on the RP2040 Adalogger
+
 Open Arduino IDE and connect your arduino to your computer. Ensure the correct board and port is selected. Open a serial monitor—you should see streaming data. 
 
 Open a serial plotter. You should see checkboxes for the different data points. Time (in milliseconds) will quickly outrange any other data, so turn it off with its checkbox. 
