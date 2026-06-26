@@ -4,18 +4,18 @@
 _Alternative to Astro 201 or Aero 206_
 
 Welcome to Engineering 201! In this class you will learn technical and communication skills and tools you will use as an engineering major and perhaps beyond. 
-
+You will learn to solve complex problems using computer programing including:
 - version control and collaboration
-- computer programming
-- 3D modeling and manufacturing
 - microcontroller programming
 - data analysis 
 - experimentation/test/validation
 - orbital mechanics (*astro)
 - specific excess power (*aero)
 - standard atmospheric model (*aero)
-- engineering communication
 
+You will learn to develop 3D models using Computer Aided Design (CAD) and to additively manufacture with 3D printing methods.
+
+You will develop oral and written engineering communication skills.
 
 
 ## tools
@@ -28,15 +28,15 @@ Follow the instructions in [tools.md](./tools.md).
 
 [DFAS policy 2025-2026](DFAS%20policy%202025-2026.pdf)
 
-The default AI policy for this course is Level 2: Use of GenAI for brainstorming or idea generation. Exceptions to this policy require written instructor direction. 
+The default AI policy for this course is Level 2: Use of GenAI for brainstorming or idea generation. Exceptions to this policy require written instructor direction, which may be included in individual project handouts.
 >Level 2:
 >Cadets can consult GenAI as a tool for initial brainstorming or idea generation, but are expected to create their own, original work without the use of GenAI. Use of GenAI in this manner should be acknowledged as part of documentation statements.
 
-In general, we're trying to train *you*, not an AI system how to think and how to do fundamental things effectively and efficiently. 
+In general, this course aims to educate *you*, not an AI system on how to think and how to do fundamental things effectively and efficiently. 
 
 Do not record audio or video during routine parts of class. This is not intended to prohibit recordings of unique events such as rocket launch or altimeter testing. 
 
-Assignments will be due at the start of class. You may earn up to 50% credit if you submit a late assignment within 24 hours of its due date. You will receive no credit after that but must still complete the assignment.
+Assignments will be due at the start of class. You may earn up to 50% credit if you submit a late assignment within 24 hours of its due date. You will receive no credit after that but must still complete the assignment. Coordinate with your instructor in writing for exceptions.
 
 
 
@@ -57,7 +57,7 @@ The file [grade_calculator.xlsx](grade_calculator.xlsx) is available for your ow
 
 Lt Col Jordan Firth 6H147 (course director)
 
-Col James Gresham
+Col James Gresham 6H101
 
 
 
